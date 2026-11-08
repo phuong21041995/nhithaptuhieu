@@ -1,0 +1,8 @@
+{
+  "appId": "com.nhithaptuhieu.app",
+  "appName": "Nhị Thập Tứ Hiếu",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
